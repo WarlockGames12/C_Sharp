@@ -1,0 +1,16 @@
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\bin\Debug\net5.0\EXE.exe
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\bin\Debug\net5.0\EXE.deps.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\bin\Debug\net5.0\EXE.runtimeconfig.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\bin\Debug\net5.0\EXE.runtimeconfig.dev.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\bin\Debug\net5.0\EXE.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\bin\Debug\net5.0\ref\EXE.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\bin\Debug\net5.0\EXE.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\EXE.csprojAssemblyReference.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\EXE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\EXE.AssemblyInfoInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\EXE.AssemblyInfo.cs
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\EXE.csproj.CoreCompileInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\EXE.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\ref\EXE.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\EXE.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\EXE\EXE\obj\Debug\net5.0\EXE.genruntimeconfig.cache
