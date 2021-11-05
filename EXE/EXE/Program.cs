@@ -1,15 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
 namespace EXE
 {
 
     class Program
     {
+
         
+
+
         static void Main(string[] args)
         {
             Console.WriteLine("Opdracht 1: ");
+            Console.WriteLine("-----------------------------------------------------------------------------------");
             Enemy Monster = new Enemy();
             Monster.Attack(70);
             Snake Enemy = new Snake();
@@ -18,6 +23,7 @@ namespace EXE
             Slithering.Slithering("Slithers");
             Console.WriteLine("-----------------------------------------------------------------------------------");
             Console.WriteLine("Opdracht 2: ");
+            Console.WriteLine("-----------------------------------------------------------------------------------");
             //1st rectangle
             Rectangle angle = new Rectangle(45.0f,50.0f);
             float angles = angle.GetRectangle();
@@ -42,14 +48,15 @@ namespace EXE
             Console.WriteLine("The y is " + Angley);
             float Sizinge = angle.GetRectangle();
             float Sizinge1 = angle.GetWidth();
-            Console.WriteLine("The Size is " + Sizinge + "as height & " + Sizinge1 + " as width ");
+            Console.WriteLine("The Size is " + Sizinge + " as height & " + Sizinge1 + " as width ");
             Console.WriteLine("-----------------------------------------------------------------------------------");
             // 4th rectangle
             float GreatSize = angle.GetRectangle();
             float GreatSize1 = angle.GetWidth();
-            Console.WriteLine("The Size is " + GreatSize + "as height & " + GreatSize1 + "as width ");
+            Console.WriteLine("The Size is " + GreatSize + " as height & " + GreatSize1 + " as width ");
             Console.WriteLine("-----------------------------------------------------------------------------------");
             Console.WriteLine("Opdracht 3: ");
+            Console.WriteLine("-----------------------------------------------------------------------------------");
         }
     }
 
@@ -83,9 +90,6 @@ namespace EXE
         private float width = 50.0f;
         private float height = 45.0f;
         
-
-
-
 
         public Rectangle(float height, float width)
         {

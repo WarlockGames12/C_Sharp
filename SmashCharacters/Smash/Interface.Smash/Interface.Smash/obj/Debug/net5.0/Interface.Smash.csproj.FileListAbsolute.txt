@@ -1,0 +1,16 @@
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\Interface.Smash.csproj.AssemblyReference.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\Interface.Smash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\Interface.Smash.AssemblyInfoInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\Interface.Smash.AssemblyInfo.cs
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\Interface.Smash.csproj.CoreCompileInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\bin\Debug\net5.0\Interface.Smash.exe
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\bin\Debug\net5.0\Interface.Smash.deps.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\bin\Debug\net5.0\Interface.Smash.runtimeconfig.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\bin\Debug\net5.0\Interface.Smash.runtimeconfig.dev.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\bin\Debug\net5.0\Interface.Smash.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\bin\Debug\net5.0\ref\Interface.Smash.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\bin\Debug\net5.0\Interface.Smash.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\Interface.Smash.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\ref\Interface.Smash.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\Interface.Smash.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\SmashCharacters\Smash\Interface.Smash\Interface.Smash\obj\Debug\net5.0\Interface.Smash.genruntimeconfig.cache

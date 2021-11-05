@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode1\\c#\\DebuggingTest\\DebuggingTest\\DebuggingTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode1\\c#\\DebuggingTest\\DebuggingTest\\DebuggingTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode1\\c#\\DebuggingTest\\DebuggingTest\\DebuggingTest.csproj",
+        "projectName": "DebuggingTest",
+        "projectPath": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode1\\c#\\DebuggingTest\\DebuggingTest\\DebuggingTest.csproj",
+        "packagesPath": "C:\\Users\\fpwee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode1\\c#\\DebuggingTest\\DebuggingTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fpwee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

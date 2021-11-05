@@ -1,0 +1,8 @@
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\DebuggingTest\DebuggingTest\bin\Debug\net472\DebuggingTest.exe
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\DebuggingTest\DebuggingTest\bin\Debug\net472\DebuggingTest.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\DebuggingTest\DebuggingTest\obj\Debug\net472\DebuggingTest.csprojAssemblyReference.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\DebuggingTest\DebuggingTest\obj\Debug\net472\DebuggingTest.csproj.CoreCompileInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\DebuggingTest\DebuggingTest\obj\Debug\net472\DebuggingTest.AssemblyInfoInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\DebuggingTest\DebuggingTest\obj\Debug\net472\DebuggingTest.AssemblyInfo.cs
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\DebuggingTest\DebuggingTest\obj\Debug\net472\DebuggingTest.exe
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode1\c#\DebuggingTest\DebuggingTest\obj\Debug\net472\DebuggingTest.pdb
